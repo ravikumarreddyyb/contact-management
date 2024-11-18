@@ -1,0 +1,12 @@
+.contact-form {
+    transition: box-shadow 1s ease;
+    transition-delay: 0.8s;
+}
+
+.contact-form:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    transition-delay: 0.5s;
+}
+
+
+
